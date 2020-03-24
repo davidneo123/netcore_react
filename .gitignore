@@ -1,0 +1,11 @@
+react/node_modules
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
+_ReSharper.*
+./*/bin
+./*/obj
+./*/packages

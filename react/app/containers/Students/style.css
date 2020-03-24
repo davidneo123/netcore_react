@@ -1,0 +1,15 @@
+.btnStudent {
+    margin: 5px;
+    color: white; 
+}
+
+@media (max-width: 64em) {
+    .btnStudent {
+        width:160px;
+        margin: 5px;
+        font-size: 15px;
+        text-align: justify;        
+        color: white;
+        
+    }
+}

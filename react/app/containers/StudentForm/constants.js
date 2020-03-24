@@ -1,0 +1,9 @@
+export const LOAD_STUDENT = 'prueba/studentForm/LOAD_STUDENT';
+export const LOAD_STUDENT_SUCCESS = 'prueba/studentForm/LOAD_STUDENT_SUCCESS';
+export const LOAD_STUDENT_ERROR = 'prueba/studentForm/LOAD_STUDENT_ERROR';
+export const CLEAN_DATA = 'prueba/studentForm/CLEAN_DATA';
+export const ONCHANGE_FORM = 'prueba/studentForm/ONCHANGE_FORM';
+export const POST_PUT_DATA = 'prueba/studentForm/POST_PUT_DATA';
+export const POST_PUT_DATA_SUCCESS = 'prueba/studentForm/POST_PUT_DATA_SUCCESS';
+export const POST_PUT_DATA_ERROR = 'prueba/studentForm/POST_PUT_DATA_ERROR';
+export const RETURN = 'prueba/studentForm/RETURN';

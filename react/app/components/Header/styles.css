@@ -1,0 +1,6 @@
+@media (max-width: 64em) {
+    .centeredText {
+        width: 200px;
+        justify-content: center;
+    }
+}

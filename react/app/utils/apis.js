@@ -1,0 +1,1 @@
+export const STUDENT_URI = 'http://localhost:5001/api/student';
